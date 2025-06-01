@@ -29,6 +29,10 @@ A simple real-time chat application built using HTML, CSS, and JavaScript, power
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScriPT
 
+#output
+
+![Image](https://github.com/user-attachments/assets/48d596dc-c7d9-4e36-b46d-d9f0c968cdda)
+
 
 
 
